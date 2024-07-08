@@ -1,0 +1,35 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "react project",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnjanaBiju152/react-project.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Anjanabiju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnjanaBiju152/react-project/issues"
+  },
+  "homepage": "https://github.com/AnjanaBiju152/react-project#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist": [
+    "Last 2 Chrome version"
+  ],
+  "main": "index.js"
+}
