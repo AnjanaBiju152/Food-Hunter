@@ -80,3 +80,14 @@
  height: 400px;
  background-color: gray;
 }
+
+.login{
+width: 100px;
+height: 50px;
+ padding: 0 20px;
+ cursor:pointer;
+
+}
+.filter{
+    display: flex;
+}
