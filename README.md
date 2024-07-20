@@ -22,3 +22,15 @@
 - HTTPs
 - Tree Shaking - remove unused code
 - Different Dev anad Prod Bundles
+
+
+# React Hooks
+(Normal js utility function)
+- useState()  -Superpowerful State Variable in react
+- useEffect() 
+
+
+# 2 types Routing in web apps
+- Client Side Routing
+- Server Side Routing
+
